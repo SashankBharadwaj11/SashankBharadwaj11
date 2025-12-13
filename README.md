@@ -27,7 +27,7 @@
 
 I’m an **AI/ML Engineer** focused on building **end-to-end machine learning systems** that move from experimentation to reliable production.
 
-My work sits at the intersection of **large language models, multimodal learning, and MLOps** — with a strong emphasis on **evaluation, explainability, and system design**. I enjoy roles that are challenging, hands-on, and impact-driven.
+My work sits at the intersection of **large language models, multimodal learning, and MLOps**, with a strong emphasis on **evaluation, explainability, and system design**. I enjoy roles that are challenging, hands-on, and impact-driven.
 
 ```python
 sashank = {
