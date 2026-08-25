@@ -28,7 +28,7 @@
 
 <img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Software Engineer with 4+ years of experience building backend and distributed systems in cloud environments. Skilled in microservices architecture, event-driven systems, performance optimization, and reliability engineering. Experienced with CI/CD automation, containerized deployments, and observability across production services. Strong interest in integrating LLM/RAG/agent capabilities into scalable software products with measurable latency and quality constraints.
+Software Engineer with 5 years of experience building backend and distributed systems in cloud environments. Skilled in microservices architecture, event-driven systems, performance optimization, and reliability engineering. Experienced with CI/CD automation, containerized deployments, and observability across production services. Strong interest in integrating LLM/RAG/agent capabilities into scalable software products with measurable latency and quality constraints.
 
 ---
 
